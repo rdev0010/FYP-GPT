@@ -1,4 +1,4 @@
-# FYP-GPT
+# LimitlessGPT
 
 Welcome to LimitlessGPT, your gateway to understanding the voices of youth innovators tackling climate and environmental challenges around the world.
 
