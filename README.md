@@ -14,4 +14,4 @@ Let’s reimagine reporting — one conversation at a time.
 - Download zip
 - npm install
 - npm run dev
-- go to localhost:3000 on your webbrowser
+- go to localhost:3000 on your web browser
